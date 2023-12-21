@@ -1,0 +1,21 @@
+*{
+    margin:10px;
+    text-align: center;
+}
+
+.tabelka{
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.tabelka tr td{
+    border: 1px solid #000;
+}
+button{
+    background-color: rgb(121, 121, 192);
+    color:white;
+    border-radius: 20%;
+}
+.btnCancel{
+    background-color:rgb(202, 134, 134);
+}
